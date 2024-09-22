@@ -7,5 +7,5 @@ docker run -d \
 -e APITOKEN=XXXXXXXXXXXXXXXXXXXXXXX \
 -e DOMAIN=example.com \
 -e PREFIX=prefix \
-> ghcr.io/cedar2025/cloudflareddns
+ghcr.io/cedar2025/cloudflareddns
 ```
